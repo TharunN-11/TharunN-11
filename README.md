@@ -1,8 +1,8 @@
 # Hi, I'm Tharun 👋
 
 🎓 Electronics and Communication Engineering (ECE) Student  
-💻 Aspiring Software Developer  
-🚀 Interested in Full Stack Development  
+💻  Aspiring Software & Embedded Systems Developer 
+🚀 Interested in Real-World Application Development
 
 ## 🛠 Skills
 - C, C++
