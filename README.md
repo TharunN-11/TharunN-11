@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tharun 👋
 
-<!--
-**TharunN-11/TharunN-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering (ECE) Student  
+💻 Aspiring Software Developer  
+🚀 Interested in Full Stack Development  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- C, C++
+- Python (Basics)
+- Arduino & Embedded Systems
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Low Cost ECG Monitoring System (Major Project)
+- Face Biometric System (Mini Project)
+- Programming Practice in C and Python
+
+
+
+## 🎯 Currently Learning
+- Data Structures
+- Web Development Basics
+- Git & GitHub
+
